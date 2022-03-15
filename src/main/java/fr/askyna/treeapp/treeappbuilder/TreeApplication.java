@@ -22,7 +22,7 @@ public class TreeApplication extends Application {
 
         stage.setTitle("TreeApp");
         stage.setScene(mainScene);
-        stage.setResizable(false);
+        //stage.setResizable(false);
         stage.show();
     }
 
